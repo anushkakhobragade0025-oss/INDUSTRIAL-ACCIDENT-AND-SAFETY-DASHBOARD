@@ -10,7 +10,7 @@ Workplace safety is a critical concern in industrial settings. This project anal
 
 •Analyze frequency and severity of industrial accidents across departments.                                                                                         
 •Identify high-risk industry sectors, worker types, and accident causes.                                                                                            
-•Build a clear, interactive dashboard to communicate findings to stakeholders.
+•Build a clear, interactive dashboard to communicate findings to stakeholders.                                                                                      
 •Support data-driven workplace safety recommendations.
 
 🛠️Tools & Technologies
@@ -24,17 +24,17 @@ Purpose : Interactive filtering by year, gender, severity.
 
 📁 Workbook Structure
 
-Four sheets - Data , Dashboard , Insights , Detailed Analysis.
-•DATA : Raw dataset containing all accident records.
-•DASHBOARD : Interactive visual dashboard with KPI cards, charts and slicers.
-•INSIGHTS : Summary of key findings and observations.
+Four sheets - Data , Dashboard , Insights , Detailed Analysis.                                                                                                      
+•DATA : Raw dataset containing all accident records.                                                                                                                
+•DASHBOARD : Interactive visual dashboard with KPI cards, charts and slicers.                                                                                       
+•INSIGHTS : Summary of key findings and observations.                                                                                                               
 •DETAILED ANALYSIS : In-depth breakdown and pivot table analysis.
 
 📊Dashboard Features
 
-•KPI Cards — Total accidents (425), Average severity score (1.53), Fatal accidents (8).
-•Monthly Trend Line Chart — Accident frequency across months for 2016 and 2017.
-•Top 5 Plants — Locations with highest accident counts.
+•KPI Cards — Total accidents (425), Average severity score (1.53), Fatal accidents (8).                                                                             
+•Monthly Trend Line Chart — Accident frequency across months for 2016 and 2017.                                                                                     
+•Top 5 Plants — Locations with highest accident counts.                                                                                                             
 •Accident by Severity Level — Low, Medium, High breakdown.
 •Accident by Industry Sector — Mining, Metals, and Others comparison.
 •Accidents by Worker Type — Employee vs Third Party breakdown.
