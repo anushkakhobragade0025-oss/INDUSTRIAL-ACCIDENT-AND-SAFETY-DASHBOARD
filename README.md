@@ -4,14 +4,14 @@ A data analytics project focusing on identifying patterns in industrial workplac
 
 📌 Project Overview
 
-Workplace safety is a critical concern in industrial settings. This project analyzes industrial accident data to uncover trends across accident types, industry sectors, worker types, and severity levels — translating raw data into actionable visual insights through an interactive Excel dashboard.
+Workplace safety is a critical concern in industrial settings. This project analyzes industrial accident data to uncover trends across accident types, industry sectors, worker types, and severity levels which translates raw data into actionable visual insights through an interactive Excel dashboard.
 
 🎯 Objectives
 
 •Analyze frequency and severity of industrial accidents across departments.                                                                                         
-•Identify high-risk industry sectors, worker types, and accident causes.                                                                                            
+•Identify high risk industry sectors, worker types, and accident causes.                                                                                            
 •Build a clear, interactive dashboard to communicate findings to stakeholders.                                                                                      
-•Support data-driven workplace safety recommendations.
+•Support data driven workplace safety recommendations.
 
 🛠️Tools & Technologies
 
@@ -32,18 +32,18 @@ Four sheets - Data , Dashboard , Insights , Detailed Analysis.
 
 📊Dashboard Features
 
-•KPI Cards — Total accidents (425), Average severity score (1.53), Fatal accidents (8).                                                                             
-•Monthly Trend Line Chart — Accident frequency across months for 2016 and 2017.                                                                                     
-•Top 5 Plants — Locations with highest accident counts.                                                                                                             
-•Accident by Severity Level — Low, Medium, High breakdown.                            
-•Accident by Industry Sector — Mining, Metals, and Others comparison.             
-•Accidents by Worker Type — Employee vs Third Party breakdown.                      
-•Top 5 Causes of Accident — Leading contributing factors.                       
-•Interactive Slicers — Filter by Year, Gender, and Severity Score.
+•KPI Cards : Total accidents (425), Average severity score (1.53), Fatal accidents (8).                                                                             
+•Monthly Trend Line Chart : Accident frequency across months for 2016 and 2017.                                                                                     
+•Top 5 Plants : Locations with highest accident counts.                                                                                                             
+•Accident by Severity Level : Low, Medium, High breakdown.                            
+•Accident by Industry Sector : Mining, Metals, and Others comparison.             
+•Accidents by Worker Type : Employee vs Third Party breakdown.                      
+•Top 5 Causes of Accident : Leading contributing factors.                       
+•Interactive Slicers : Filter by Year, Gender, and Severity Score.
 
 🔍Key Insights
 
-•84% of all accidents were classified as low severity.
+•84% of all accidents were classified as low severity.                            
 •Mining sector accounted for 57% of all industry-related accidents.
 •Local_03 plant recorded the highest accident count at 90 incidents.
 •Employees represented 42% of accident victims compared to third-party workers.
@@ -51,7 +51,7 @@ Four sheets - Data , Dashboard , Insights , Detailed Analysis.
 
 📂 Data Source
 
-Dataset sourced from Kaggle — Industrial Accident Dataset.
+Dataset sourced from Kaggle : Industrial Accident Dataset.
 
 Author : Anushka Khobragade
 B.Tech Mechanical Engineering (2nd Year)
