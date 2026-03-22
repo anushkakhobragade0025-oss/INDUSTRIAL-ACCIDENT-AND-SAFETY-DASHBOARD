@@ -9,7 +9,7 @@ Workplace safety is a critical concern in industrial settings. This project anal
 🎯 Objectives
 
 •Analyze frequency and severity of industrial accidents across departments.
-•Identify high-risk industry sectors, worker types, and accident causes.
+•Identify high-risk industry sectors, worker types, and accident causes.               
 •Build a clear, interactive dashboard to communicate findings to stakeholders.
 •Support data-driven workplace safety recommendations.
 
