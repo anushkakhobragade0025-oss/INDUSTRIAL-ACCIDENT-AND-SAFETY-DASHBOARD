@@ -15,12 +15,12 @@ Workplace safety is a critical concern in industrial settings. This project anal
 
 🛠️Tools & Technologies
 
-Tool : Microsoft Excel
-Purpose : Data cleaning, pivot tables, dashboard creation.
-Tool : Excel Charts
-Purpose : Trend analysis and pattern detection.
-Tool : Excel Slicers
-Purpose : Interactive filtering by year, gender, severity.
+Tool : Microsoft Excel.                       
+Purpose : Data cleaning, pivot tables, dashboard creation.                         
+Tool : Excel Charts                         
+Purpose : Trend analysis and pattern detection.                                  
+Tool : Excel Slicers                       
+Purpose : Interactive filtering by year, gender, severity.                       
 
 📁 Workbook Structure
 
