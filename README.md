@@ -44,9 +44,9 @@ Four sheets - Data , Dashboard , Insights , Detailed Analysis.
 🔍Key Insights
 
 •84% of all accidents were classified as low severity.                            
-•Mining sector accounted for 57% of all industry-related accidents.
-•Local_03 plant recorded the highest accident count at 90 incidents.
-•Employees represented 42% of accident victims compared to third-party workers.
+•Mining sector accounted for 57% of all industry-related accidents.                  
+•Local_03 plant recorded the highest accident count at 90 incidents.               
+•Employees represented 42% of accident victims compared to third-party workers.        
 •Only 8 fatal accidents recorded out of 425 which highlighgs the importance of early intervention.
 
 📂 Data Source
