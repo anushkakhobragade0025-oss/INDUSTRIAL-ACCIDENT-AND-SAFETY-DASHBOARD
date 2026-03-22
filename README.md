@@ -35,10 +35,10 @@ Four sheets - Data , Dashboard , Insights , Detailed Analysis.
 •KPI Cards — Total accidents (425), Average severity score (1.53), Fatal accidents (8).                                                                             
 •Monthly Trend Line Chart — Accident frequency across months for 2016 and 2017.                                                                                     
 •Top 5 Plants — Locations with highest accident counts.                                                                                                             
-•Accident by Severity Level — Low, Medium, High breakdown.
-•Accident by Industry Sector — Mining, Metals, and Others comparison.
-•Accidents by Worker Type — Employee vs Third Party breakdown.
-•Top 5 Causes of Accident — Leading contributing factors>
+•Accident by Severity Level — Low, Medium, High breakdown.                            
+•Accident by Industry Sector — Mining, Metals, and Others comparison.             
+•Accidents by Worker Type — Employee vs Third Party breakdown.                      
+•Top 5 Causes of Accident — Leading contributing factors.                       
 •Interactive Slicers — Filter by Year, Gender, and Severity Score.
 
 🔍Key Insights
