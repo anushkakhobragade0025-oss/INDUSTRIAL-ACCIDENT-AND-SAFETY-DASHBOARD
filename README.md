@@ -53,13 +53,8 @@ Four sheets - Data , Dashboard , Insights , Detailed Analysis.
 
 Dataset sourced from Kaggle — Industrial Accident Dataset.
 
-Author
-
-Anushka Khobragade
-
+Author : Anushka Khobragade
 B.Tech Mechanical Engineering (2nd Year)
- VNIT Nagpur
-
+VNIT Nagpur
 📧 anushkakhobragade0025@gmail.com
-
 🔗 https://github.com/anushkakhobragade0025-oss
